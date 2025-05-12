@@ -1,0 +1,9 @@
+streamlit 
+openpyxl 
+openai 
+sounddevice 
+scipy 
+numpy 
+pandas 
+sentence-transformers 
+pyttsx3
